@@ -4,3 +4,4 @@ Portfólió oldalam 2023-ban
 Elkezdem a readme.md állományt tartalommal megtölteni.
 
 Ezt adom pluszban hozzá.
+Ezt adom pluszban hozzá pluszban.
